@@ -50,5 +50,5 @@ async def leave(ctx):
     else:
         await ctx.send("I'm not in a voice channel.")
 
-client.run('MTMwMDI5NjE1ODgzMjM2NTU4OA.Gd5D0D.VWyQh0RWlsqGrGHAqbDMoc1zkf_quqFfAeJAOA')
+client.run('TOKEN')
 
